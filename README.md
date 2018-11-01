@@ -2,14 +2,10 @@
 https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
 
 
-android {
-
-    // ...
+build.gradle(Moudle:app)
     defaultConfig {
-       // ...
        resConfigs "en" // And any other languages you support
     }
-}
 
 
 
