@@ -10,6 +10,8 @@ build.gradle(Moudle:app)
     }
 
 建立Email登入與Google帳戶登入
+
+
     startActivityForResult(AuthUI.getInstance().createSignInIntentBuilder()
                     .setIsSmartLockEnabled(false)
                     .setAvailableProviders(Arrays.asList(
