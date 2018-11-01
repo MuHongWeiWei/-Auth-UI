@@ -3,6 +3,7 @@ https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
 
 
 android {
+
     // ...
     defaultConfig {
        // ...
