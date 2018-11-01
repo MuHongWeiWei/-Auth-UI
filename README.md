@@ -2,10 +2,8 @@
 https://github.com/firebase/FirebaseUI-Android/blob/master/auth/README.md
 
 
-
 android {
     // ...
-
     defaultConfig {
        // ...
        resConfigs "en" // And any other languages you support
